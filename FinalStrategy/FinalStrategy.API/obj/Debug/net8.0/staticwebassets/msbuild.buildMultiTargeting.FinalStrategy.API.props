@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FinalStrategy.API.props" />
+</Project>
